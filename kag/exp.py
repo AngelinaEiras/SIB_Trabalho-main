@@ -31,7 +31,7 @@ justificando as suas escolhas;
 • incluir os gráficos exploratórios iniciais que ilustrem as principais características
 dos dados.
 
-
+adgs
 '''
 
 
